@@ -55,7 +55,3 @@ Emmerich High School
 South Burdette Elementary
 West Lukaston School of Fine Arts
 ```
-
-## License
-
-TODO: Write license
